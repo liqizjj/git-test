@@ -10,7 +10,7 @@ public class FirstClass {
     }
     public void set(){
         int o =1111111111;
-        int od =111; int os =11188811;int ddos =666666666;
+        int od =111; int os =13188811;int ddos =666666666;
         int u=102;
         System.out.println(o);
     }
