@@ -15,7 +15,7 @@ public class FirstClass {
 
     }
     public void set(){
-        int o =4;
+        int o =44445544;
 
         int u=102;
 
