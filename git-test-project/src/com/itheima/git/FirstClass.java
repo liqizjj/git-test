@@ -14,4 +14,10 @@ public class FirstClass {
 
 
     }
+    public void set(){
+        int o =4;
+
+        int u=102;
+
+    }
 }
